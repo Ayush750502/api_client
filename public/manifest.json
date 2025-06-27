@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Api_Client",
+  "name": "Api Responese Viewer",
+  "description": "A simple React application to view API responses in a user-friendly format.",
+  "lang": "en-US",
   "icons": [
     {
       "src": "favicon.ico",
